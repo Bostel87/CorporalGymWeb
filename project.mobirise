@@ -1,0 +1,1379 @@
+{
+  "settings": {
+    "name": "CorporalGym",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#c645c1"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.0",
+    "siteFonts": [],
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/corporalgymlogo-128x33.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "uniqCompNum": 39,
+    "versionPublish": "4.12.0",
+    "screenshot": "screenshot.png",
+    "mcShopcart": {
+      "email": "boris_parales@hotmail.com"
+    }
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#93a3a7",
+              "font-style": "italic"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "buttonAlign": "right",
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/image1-1280x1266.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2c3e50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "Bienvenidos<br>Fitness<br>Corporal<br>Gym",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/personal-training2-1-1160x550.jpeg",
+              "class": "",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title": "TEN UN PROFESIONAL A TU LADO",
+          "subtitle": "Personal training",
+          "text": "Nuestros entrenadores certificados están entre los mejores. No hay un plan de entrenamiento igual, ya que cada cliente es unico.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Registrar membresia</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-6",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header7 mbr-section-with-arrow\" data-rv-view=\"16\" style=\"background-color: rgb(236, 240, 241);\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-md-6 col-lg-5 col-lg-offset-1 text-xs-left content-size\">\n\n                    <p class=\"mbr-section-subtitle lead subtitle mbr-editable-content\" code-editable-id=\"148\">Personal training</p>\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"149\">TEN UN <br>PROFESIONAL <br>A TU LADO</h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"150\">Nuestros entrenadores certificados están entre los mejores. No hay un plan de entrenamiento igual, ya que cada cliente es unico.</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-info mbr-editable-button\" href=\"Membresia.html#header1-j\" code-editable-id=\"151\">Registrar membresia</a></div>\n                </div>\n\n                <div class=\"col-xs-12 col-md-6 padding-left-0 padding-right-0 image-size\">\n                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/personal-training2-1-1160x550.jpeg\"></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n        </a>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-subtitle {\n  text-transform: uppercase;\n  color: #9fa3a7;\n}\n.mbr-section-text {\n  color: #9fa3a7;\n}\n.mbr-section-title {\n  color: #242424;\n  font-weight: bold;\n  font-size: 40px;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image2-1280x1263.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image2-1280x1263-800x789.jpg",
+                "alt": "",
+                "title": "",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/image4-1242x1237.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image4-1242x1237-800x797.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/image5-1280x1251.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image5-1280x1251-800x782.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/image0-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image0-1-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/image3-1280x1268.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image3-1280x1268-800x793.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/image0-1280x1278.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image0-1280x1278-800x799.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/image1-2-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image1-2-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/image1-1242x1224.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image1-1242x1224-800x788.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "allItem": "ALL",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-7"
+        },
+        {
+          "_params": {
+            "token": "215457443.727bfe1.2fd2bea119224cd793e474d70a546168",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "3",
+            "rows": "3",
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": "11",
+            "fullWidth": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColorRadio": false,
+            "bgColor": "#fafafa",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/image3-1280x1272.jpg",
+            "overlay": true,
+            "overlayColor": "#efefef",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Corporal gym Instagram",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"2019196260325803459_215457443\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Mostrar más</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-8"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.069212322742!2d-79.89605398581624!3d-2.127070637719711!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902d6d3ed6e2f577%3A0x300332c3793896c3!2sCorporal%20Gym!5e0!3m2!1ses-419!2sec!4v1580008844028!5m2!1ses-419!2sec\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\"></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-9"
+        },
+        {
+          "_params": {
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7f7f7",
+            "overlay": true,
+            "overlayColor": "#f7f7f7",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/corporalgymlogo-288x75.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "product",
+          "text11": "Popular",
+          "text12": "Trending",
+          "text13": "Catalog",
+          "text14": "Awesome",
+          "text15": "Best",
+          "title2": "company",
+          "text21": "Press",
+          "text22": "Features",
+          "text23": "Mission",
+          "text24": "Strategy",
+          "text25": "Works",
+          "title3": "Learn more",
+          "text31": "Support",
+          "text32": "Developers",
+          "text33": "Service",
+          "text34": "Starter pack",
+          "text35": "FAQ",
+          "titled1": "",
+          "titled2": "",
+          "titled3": "",
+          "followtext": "follow us",
+          "text": "Todos Los Derechos Reservados (c) 2020 CorporalGym",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer7",
+          "_anchor": "footer7-12",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding footer1 footer7 mbr-after-navbar\" data-rv-view=\"934\" style=\"background-color: rgb(247, 247, 247); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container-fluid\">\n    \t\n        <div class=\"row\">\n        <div class=\"col-xs-12\">\n\n            <div class=\"col-xs-12 col-lg-2 text-xs-center text-lg-left table-cell-lg table-cell-middle\">\n                <div class=\"logo\"><a href=\"#top\"><img src=\"@PROJECT_PATH@/assets/images/corporalgymlogo-288x75.jpg\" alt=\"Mobirise\"></a></div>\n            </div>\n\n            <div class=\"col-xs-12 col-lg-8 footer-list-2 text-xs-center table-cell-lg table-cell-middle\">\n                <div class=\"col-xs-12 col-md-4\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"178\"></p>\n                </div>\n                <div class=\"col-xs-12 col-md-4\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"179\"></p>\n                </div>\n                <div class=\"col-xs-12 col-md-4\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"180\"></p>\n                </div>\n            </div>\n\n            <div class=\"col-xs-12 col-lg-2 text-xs-center text-lg-left table-cell-lg table-cell-middle\">\n              <div class=\"mbr-section-btn\"><a class=\"btn btn-icon mbr-editable-button\" href=\"https://twitter.com/corporalgym\" code-editable-id=\"181\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://www.facebook.com/CorporalGymFitness/\" code-editable-id=\"182\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://www.instagram.com/corporalgym/?hl=es-la\" code-editable-id=\"183\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"184\"></a></div>\n            </div>\n\n        </div>\n        </div>\n    </div>\n    <div class=\"container margin-top-40\">\n        <p class=\"text-xs-center mbr-section-text lead mbr-editable-content\" code-editable-id=\"185\">Todos Los Derechos Reservados (c) 2020 CorporalGym</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Equipos.html#header1-t\">Equipos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Entrenadores.html#header1-r\">Entrenadores</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Membresia.html#header1-j\">Membresia</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/corporalgymlogo-288x75.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-m"
+        }
+      ]
+    },
+    "Membresia.html": {
+      "settings": {
+        "title": "Membresia",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#93a3a7",
+              "font-style": "italic"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "buttonAlign": "right",
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/image3-1280x1272.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2c3e50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "Obten tu<br>Membresia",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "_params": {
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "title": "Registrate ahora!",
+          "subtitle": "OBTEN UN DESCUENTO EN TU MENSUALIDAD.",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "form": {
+            "action": "boris_parales@hotmail.com",
+            "alerts": {
+              "success": "Tu Codigo de descuento esta siendo procesado.. \nGracias por Registrarte!!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Correo*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Celular*"
+              },
+              "message": {
+                "visible": false,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form3",
+          "_anchor": "form3-10"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Equipos.html#header1-t\">Equipos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Entrenadores.html#header1-r\">Entrenadores</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Membresia.html#header1-j\">Membresia</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/corporalgymlogo-288x75.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-m"
+        },
+        {
+          "_params": {
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7f7f7",
+            "overlay": true,
+            "overlayColor": "#f7f7f7",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/corporalgymlogo-288x75.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "product",
+          "text11": "Popular",
+          "text12": "Trending",
+          "text13": "Catalog",
+          "text14": "Awesome",
+          "text15": "Best",
+          "title2": "company",
+          "text21": "Press",
+          "text22": "Features",
+          "text23": "Mission",
+          "text24": "Strategy",
+          "text25": "Works",
+          "title3": "Learn more",
+          "text31": "Support",
+          "text32": "Developers",
+          "text33": "Service",
+          "text34": "Starter pack",
+          "text35": "FAQ",
+          "titled1": "",
+          "titled2": "",
+          "titled3": "",
+          "followtext": "follow us",
+          "text": "Todos Los Derechos Reservados (c) 2020 CorporalGym",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer7",
+          "_anchor": "footer7-12",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding footer1 footer7 mbr-after-navbar\" data-rv-view=\"934\" style=\"background-color: rgb(247, 247, 247); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container-fluid\">\n    \t\n        <div class=\"row\">\n        <div class=\"col-xs-12\">\n\n            <div class=\"col-xs-12 col-lg-2 text-xs-center text-lg-left table-cell-lg table-cell-middle\">\n                <div class=\"logo\"><a href=\"#top\"><img src=\"@PROJECT_PATH@/assets/images/corporalgymlogo-288x75.jpg\" alt=\"Mobirise\"></a></div>\n            </div>\n\n            <div class=\"col-xs-12 col-lg-8 footer-list-2 text-xs-center table-cell-lg table-cell-middle\">\n                <div class=\"col-xs-12 col-md-4\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"178\"></p>\n                </div>\n                <div class=\"col-xs-12 col-md-4\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"179\"></p>\n                </div>\n                <div class=\"col-xs-12 col-md-4\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"180\"></p>\n                </div>\n            </div>\n\n            <div class=\"col-xs-12 col-lg-2 text-xs-center text-lg-left table-cell-lg table-cell-middle\">\n              <div class=\"mbr-section-btn\"><a class=\"btn btn-icon mbr-editable-button\" href=\"https://twitter.com/corporalgym\" code-editable-id=\"181\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://www.facebook.com/CorporalGymFitness/\" code-editable-id=\"182\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://www.instagram.com/corporalgym/?hl=es-la\" code-editable-id=\"183\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"184\"></a></div>\n            </div>\n\n        </div>\n        </div>\n    </div>\n    <div class=\"container margin-top-40\">\n        <p class=\"text-xs-center mbr-section-text lead mbr-editable-content\" code-editable-id=\"185\">Todos Los Derechos Reservados (c) 2020 CorporalGym</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        }
+      ]
+    },
+    "Equipos.html": {
+      "settings": {
+        "title": "Equipos",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#93a3a7",
+              "font-style": "italic"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "buttonAlign": "right",
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/image0-1-2000x1500.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2c3e50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "Equipos<br>Corporal Fitness",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-text": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-title": {
+              "color": "#242424",
+              "font-weight": "bold"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/equipo1-960x960.jpg",
+              "class": "",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title": "Steper<br> Elíptica&nbsp;<br>AC200",
+          "subtitle": "Equipos Corporal Fitness",
+          "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://paypal.me/DentalFamily?locale.x=es_XC\" data-toolbar=\"-mbrBtnMove\">Comprar</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-v"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-text": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-title": {
+              "color": "#242424",
+              "font-weight": "bold"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/equipo2-960x960.jpg",
+              "class": "",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title": "Elíptica<br>ES35",
+          "subtitle": "equipos corporal fitness",
+          "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://paypal.me/DentalFamily?locale.x=es_XC\" data-toolbar=\"-mbrBtnMove\">Comprar</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-w"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/equipo3-960x960.jpg",
+              "class": "",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title": "Trotadora Eléctrica",
+          "subtitle": "Equipos corporal fitness",
+          "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=2369.99&amp;item_name=Custom+Item&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">Comprar</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-x",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header7 mbr-section-with-arrow mbr-after-navbar\" data-rv-view=\"609\" style=\"background-color: rgb(236, 240, 241);\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-md-6 col-lg-5 col-lg-offset-1 text-xs-left content-size\">\n\n                    <p class=\"mbr-section-subtitle lead subtitle mbr-editable-content\" code-editable-id=\"138\">Equipos corporal fitness</p>\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"139\">Trotadora Eléctrica</h1>\n                    \n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-info mbr-editable-button\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=2369.99&amp;item_name=Custom+Item&amp;currency_code=USD\" code-editable-id=\"140\">Comprar</a></div>\n                </div>\n\n                <div class=\"col-xs-12 col-md-6 padding-left-0 padding-right-0 image-size\">\n                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/equipo3-960x960.jpg\"></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#footer2-n\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n        </a>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-subtitle {\n  text-transform: uppercase;\n  color: #9fa3a7;\n}\n.mbr-section-text {\n  color: #9fa3a7;\n}\n.mbr-section-title {\n  color: #242424;\n  font-weight: bold;\n  font-size: 87px;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Equipos.html#header1-t\">Equipos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Entrenadores.html#header1-r\">Entrenadores</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Membresia.html#header1-j\">Membresia</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/corporalgymlogo-288x75.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-o"
+        },
+        {
+          "_params": {
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7f7f7",
+            "overlay": true,
+            "overlayColor": "#f7f7f7",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/corporalgymlogo-288x75.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "product",
+          "text11": "Popular",
+          "text12": "Trending",
+          "text13": "Catalog",
+          "text14": "Awesome",
+          "text15": "Best",
+          "title2": "company",
+          "text21": "Press",
+          "text22": "Features",
+          "text23": "Mission",
+          "text24": "Strategy",
+          "text25": "Works",
+          "title3": "Learn more",
+          "text31": "Support",
+          "text32": "Developers",
+          "text33": "Service",
+          "text34": "Starter pack",
+          "text35": "FAQ",
+          "titled1": "",
+          "titled2": "",
+          "titled3": "",
+          "followtext": "follow us",
+          "text": "Todos Los Derechos Reservados (c) 2020 CorporalGym",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer7",
+          "_anchor": "footer7-12",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding footer1 footer7 mbr-after-navbar\" data-rv-view=\"934\" style=\"background-color: rgb(247, 247, 247); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container-fluid\">\n    \t\n        <div class=\"row\">\n        <div class=\"col-xs-12\">\n\n            <div class=\"col-xs-12 col-lg-2 text-xs-center text-lg-left table-cell-lg table-cell-middle\">\n                <div class=\"logo\"><a href=\"#top\"><img src=\"@PROJECT_PATH@/assets/images/corporalgymlogo-288x75.jpg\" alt=\"Mobirise\"></a></div>\n            </div>\n\n            <div class=\"col-xs-12 col-lg-8 footer-list-2 text-xs-center table-cell-lg table-cell-middle\">\n                <div class=\"col-xs-12 col-md-4\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"178\"></p>\n                </div>\n                <div class=\"col-xs-12 col-md-4\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"179\"></p>\n                </div>\n                <div class=\"col-xs-12 col-md-4\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"180\"></p>\n                </div>\n            </div>\n\n            <div class=\"col-xs-12 col-lg-2 text-xs-center text-lg-left table-cell-lg table-cell-middle\">\n              <div class=\"mbr-section-btn\"><a class=\"btn btn-icon mbr-editable-button\" href=\"https://twitter.com/corporalgym\" code-editable-id=\"181\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://www.facebook.com/CorporalGymFitness/\" code-editable-id=\"182\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://www.instagram.com/corporalgym/?hl=es-la\" code-editable-id=\"183\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"184\"></a></div>\n            </div>\n\n        </div>\n        </div>\n    </div>\n    <div class=\"container margin-top-40\">\n        <p class=\"text-xs-center mbr-section-text lead mbr-editable-content\" code-editable-id=\"185\">Todos Los Derechos Reservados (c) 2020 CorporalGym</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        }
+      ]
+    },
+    "Entrenadores.html": {
+      "settings": {
+        "title": "Entrenadores",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Equipos.html#header1-t\">Equipos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Entrenadores.html#header1-r\">Entrenadores</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Membresia.html#header1-j\">Membresia</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/corporalgymlogo-288x75.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-q"
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#93a3a7",
+              "font-style": "italic"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "buttonAlign": "right",
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/image0-1-1512x2016.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2c3e50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "Nuestros Entrenadores",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "paddingTop": 1,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Nuestro Equipo",
+          "subtitle": "Nuestros entrenadores certificados están entre los mejores. No hay un plan de entrenamiento igual, ya que cada cliente es unico.",
+          "person1": "Jim Morrison",
+          "person2": "Eva Habermann",
+          "person3": "Barry Bostwick",
+          "person4": "Anna Cameron",
+          "subtitle1": "DEVELOPER",
+          "subtitle2": "DESIGNER",
+          "subtitle3": "DESIGNER",
+          "subtitle4": "PHOTOGRAPHER",
+          "caption1": "Data Centers have gained importance with hyper connectivity. To handle .",
+          "caption2": "When the aim is to develop an entertaining and fun game app, it is essential for .",
+          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
+          "caption4": "Every year more than four million traffic lights use an estimated three billion .",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face1.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face2.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face3.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face4.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "team2",
+          "_anchor": "team2-s"
+        },
+        {
+          "_params": {
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7f7f7",
+            "overlay": true,
+            "overlayColor": "#f7f7f7",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/corporalgymlogo-288x75.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "product",
+          "text11": "Popular",
+          "text12": "Trending",
+          "text13": "Catalog",
+          "text14": "Awesome",
+          "text15": "Best",
+          "title2": "company",
+          "text21": "Press",
+          "text22": "Features",
+          "text23": "Mission",
+          "text24": "Strategy",
+          "text25": "Works",
+          "title3": "Learn more",
+          "text31": "Support",
+          "text32": "Developers",
+          "text33": "Service",
+          "text34": "Starter pack",
+          "text35": "FAQ",
+          "titled1": "",
+          "titled2": "",
+          "titled3": "",
+          "followtext": "follow us",
+          "text": "Todos Los Derechos Reservados (c) 2020 CorporalGym",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer7",
+          "_anchor": "footer7-12",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding footer1 footer7 mbr-after-navbar\" data-rv-view=\"934\" style=\"background-color: rgb(247, 247, 247); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container-fluid\">\n    \t\n        <div class=\"row\">\n        <div class=\"col-xs-12\">\n\n            <div class=\"col-xs-12 col-lg-2 text-xs-center text-lg-left table-cell-lg table-cell-middle\">\n                <div class=\"logo\"><a href=\"#top\"><img src=\"@PROJECT_PATH@/assets/images/corporalgymlogo-288x75.jpg\" alt=\"Mobirise\"></a></div>\n            </div>\n\n            <div class=\"col-xs-12 col-lg-8 footer-list-2 text-xs-center table-cell-lg table-cell-middle\">\n                <div class=\"col-xs-12 col-md-4\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"178\"></p>\n                </div>\n                <div class=\"col-xs-12 col-md-4\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"179\"></p>\n                </div>\n                <div class=\"col-xs-12 col-md-4\">\n                    <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"180\"></p>\n                </div>\n            </div>\n\n            <div class=\"col-xs-12 col-lg-2 text-xs-center text-lg-left table-cell-lg table-cell-middle\">\n              <div class=\"mbr-section-btn\"><a class=\"btn btn-icon mbr-editable-button\" href=\"https://twitter.com/corporalgym\" code-editable-id=\"181\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://www.facebook.com/CorporalGymFitness/\" code-editable-id=\"182\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://www.instagram.com/corporalgym/?hl=es-la\" code-editable-id=\"183\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"184\"></a></div>\n            </div>\n\n        </div>\n        </div>\n    </div>\n    <div class=\"container margin-top-40\">\n        <p class=\"text-xs-center mbr-section-text lead mbr-editable-content\" code-editable-id=\"185\">Todos Los Derechos Reservados (c) 2020 CorporalGym</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        }
+      ]
+    }
+  }
+}
